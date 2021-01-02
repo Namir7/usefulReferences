@@ -1,7 +1,7 @@
 # useful dev references
 ### programming 
 * useful books
--https://www.geeksforgeeks.org/top-10-books-that-every-programmer-must-read-once/
+>>-https://www.geeksforgeeks.org/top-10-books-that-every-programmer-must-read-once/
 
 ### Web
 * prepared portfolio page templates 
