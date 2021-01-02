@@ -19,3 +19,8 @@
  ### Vue
 * vue open-source project 
 >-https://github.com/pagekit/pagekit
+
+
+### people 
+* additional links
+>-https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md
