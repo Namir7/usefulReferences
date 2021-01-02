@@ -2,6 +2,8 @@
 ### programming 
 * useful books
 >-https://www.geeksforgeeks.org/top-10-books-that-every-programmer-must-read-once/
+* design patterns 
+>-https://refactoring.guru/design-patterns/catalog
 
 ### Web
 * prepared portfolio page templates 
