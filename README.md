@@ -14,6 +14,9 @@
 >-https://www.youtube.com/watch?v=Q33KBiDriJY
 * design patterns in web dev
 >-https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/
+* web tendencies in 2021
+>-https://www.youtube.com/watch?v=VfGW0Qiy2I0
+  
   
  ### JS 
  
