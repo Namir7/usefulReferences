@@ -16,6 +16,8 @@
 >-https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/
 * web tendencies in 2021
 >-https://www.youtube.com/watch?v=VfGW0Qiy2I0
+* how web browsers work
+>-https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/
   
   
  ### JS 
