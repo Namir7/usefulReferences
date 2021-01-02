@@ -12,6 +12,8 @@
 >-https://www.16personalities.com/intj-personality
 * full front end course
 >-https://www.youtube.com/watch?v=Q33KBiDriJY
+* design patterns in web dev
+>-https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/
   
  ### JS 
  
