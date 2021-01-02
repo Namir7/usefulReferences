@@ -37,7 +37,7 @@
 * additional links
 >-https://github.com/irinainina/rsschool-materials
 
-### 
+### Other
 * How to work with information
 >-https://newtonew.com/science/kak-rabotat-s-informaciey-osmyslenno
 * How to get a start up idea 
