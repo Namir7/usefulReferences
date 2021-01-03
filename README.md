@@ -72,6 +72,11 @@
 * photo hosting 
 >-https://ibb.co/
 * node JS start
+
+### Engineering
 >- https://www.youtube.com/watch?v=vri9zyxLBAk
 * how to design a drone(ru)
 >- https://xakep.ru/2013/11/11/own-quadrokopter/
+* engineering magazine
+>- https://www.theengineer.co.uk/
+
