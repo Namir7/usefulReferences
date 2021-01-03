@@ -7,9 +7,11 @@
 * design patterns
 >-https://github.com/kamranahmedse/design-patterns-for-humans
 * design patterns im moderns JS development
-->https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca
+>-https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca
 * software arcitectural patterns
 >-https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
+*
+>-
 
 ### Web
 * prepared portfolio page templates 
