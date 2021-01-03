@@ -33,7 +33,9 @@
 >-https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/
 * stocks trading APIs
 >-https://rapidapi.com/blog/best-stock-api/
-* 
+* WHATWG spec
+>- https://spec.whatwg.org/
+*
 >-
   
  ### JS 
