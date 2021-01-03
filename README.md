@@ -73,5 +73,5 @@
 >-https://ibb.co/
 * node JS start
 >- https://www.youtube.com/watch?v=vri9zyxLBAk
-*
->-
+* how to design a drone(ru)
+>- https://xakep.ru/2013/11/11/own-quadrokopter/
