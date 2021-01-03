@@ -41,7 +41,9 @@
 >-https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
  * bot on ndoe.js
 >-https://habr.com/ru/post/510760/
- * 
+ * advanced JS
+>- https://www.youtube.com/watch?v=hNYzV87wocY
+*
 >-
  
  ### Vue
