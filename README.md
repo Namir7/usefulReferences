@@ -71,5 +71,5 @@
 >-https://medium.com/swlh/how-to-develop-a-great-startup-idea-5e55f9fedbf2
 * photo hosting 
 >-https://ibb.co/
-* 
->-
+* node JS start
+>- https://epam-my.sharepoint.com/personal/pavel_yasiukevich_epam_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpavel%5Fyasiukevich%5Fepam%5Fcom%2FDocuments%2FRecordings%2FRS%20School%20NodeJS%20session%2D20201228%5F190510%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fpavel%5Fyasiukevich%5Fepam%5Fcom%2FDocuments%2FRecordings&originalPath=aHR0cHM6Ly9lcGFtLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9wL3BhdmVsX3lhc2l1a2V2aWNoL0VmYVFHd2V4OHF0SmdMNFVkTEs0TjNzQloycWhTZWxSNFRGVl9zNTdHa0RQckE_cnRpbWU9QVU1UzJQQ3YyRWc
