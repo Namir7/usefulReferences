@@ -2,9 +2,13 @@
 ### programming 
 * useful books
 >-https://www.geeksforgeeks.org/top-10-books-that-every-programmer-must-read-once/
-* design patterns 
+* design patterns
 >-https://refactoring.guru/design-patterns/catalog
-* 
+* design patterns
+>-https://github.com/kamranahmedse/design-patterns-for-humans
+* design patterns im moderns JS development
+->https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca
+*
 >-
 
 ### Web
