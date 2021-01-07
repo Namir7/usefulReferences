@@ -41,8 +41,9 @@
 * tailwind best practices https://www.youtube.com/watch?v=J_7_mnFSLDg
 
 ## Engineering
-how to design a drone(ru) https://xakep.ru/2013/11/11/own-quadrokopter/
+* how to design a drone(ru) https://xakep.ru/2013/11/11/own-quadrokopter/
 * engineering magazine https://www.theengineer.co.uk/
+* embedded programs for quaredocopters https://www.youtube.com/watch?v=CHSYgLfhwUo
 
 ## people 
 * additional links https://github.com/irinainina/rsschool-materials
