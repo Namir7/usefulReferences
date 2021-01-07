@@ -53,7 +53,9 @@
 >-https://github.com/pagekit/pagekit
 * how does vue works
 >-https://www.jesuisundev.com/en/understand-vuejs-in-5-minutes/#:~:text=VueJS%20focuses%20on%20the%20view,by%20the%20data%2Dbinding%20system
-* 
+* how to integate tialwind to Vue project
+>- https://tailwindcss.com/docs/guides/vue-3-vite
+*
 >-
 
 ### CSS
