@@ -32,6 +32,7 @@
 * vue open-source project https://github.com/pagekit/pagekit
 * how does vue works https://www.jesuisundev.com/en/understand-vuejs-in-5-minutes/#:~:text=VueJS%20focuses%20on%20the%20view,by%20the%20data%2Dbinding%20system
 * how to integate tialwind to Vue project https://tailwindcss.com/docs/guides/vue-3-vite
+* Spotify home page https://www.youtube.com/watch?v=w5GQcHxJH1w
 
 #### CSS
 * tailwinds youtube playlist https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
