@@ -20,6 +20,7 @@
 * stocks trading APIs https://rapidapi.com/blog/best-stock-api/
 * WHATWG spec https://spec.whatwg.org/
 * UI kit labirory https://getuikit.com
+* HTTP crash course - Travery media https://www.youtube.com/watch?v=iYM2zFP3Zn0
   
  #### JS 
 * how it works https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
