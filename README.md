@@ -19,7 +19,7 @@
 * how web browsers work https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/
 * stocks trading APIs https://rapidapi.com/blog/best-stock-api/
 * WHATWG spec https://spec.whatwg.org/
-* UI kit labirory https://getuikit.com
+* UI kit library https://getuikit.com
 * HTTP crash course - Travery media https://www.youtube.com/watch?v=iYM2zFP3Zn0
   
  #### JS 
@@ -48,6 +48,7 @@
 * how to design a drone(ru) https://xakep.ru/2013/11/11/own-quadrokopter/
 * engineering magazine https://www.theengineer.co.uk/
 * embedded programs for quaredocopters https://www.youtube.com/watch?v=CHSYgLfhwUo
+* drone the complete flight Dinamycs https://www.youtube.com/watch?v=C0KBu2ihp-s
 
 ## people 
 * additional links https://github.com/irinainina/rsschool-materials
