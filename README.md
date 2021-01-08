@@ -8,6 +8,7 @@
 * software arcitectural patterns https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
 * reverse-engeeneering part 1 https://indepth.dev/posts/1005/level-up-your-reverse-engineering-skills
 * reverse-engeeneering part 2 https://indepth.dev/posts/1006/practical-application-of-reverse-engineering-guidelines-and-principles
+* C and C++ studing resources https://codecondo.com/best-resources-to-learn-c-c-programming-in-2020/
 
 ### Web
 * prepared portfolio page templates https://postovoy.net/30-besplatnyh-html-shablonov-portfolio-frilansera.html
