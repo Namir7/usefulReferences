@@ -33,6 +33,7 @@
  * start https://www.youtube.com/watch?v=vri9zyxLBAk
  * zoom node js clone https://www.youtube.com/watch?v=ZVznzY7EjuY
  * bot on ndoe.js https://habr.com/ru/post/510760/
+ * Node JS courses https://habr.com/ru/post/434686/?_ga=2.135147831.749446235.1610093922-1376146161.1609342990
  
  #### Vue
 * vue open-source project https://github.com/pagekit/pagekit
