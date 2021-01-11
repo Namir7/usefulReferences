@@ -25,6 +25,7 @@
 * HTTP crash course - Travery media https://www.youtube.com/watch?v=iYM2zFP3Zn0
 * PWA (ru) https://texterra.ru/blog/raznyukhat-o-pwa-zachem-biznesu-progressive-web-apps-i-kak-ispolzovat-etu-tekhnologiyu-pryamo-seycha.html
 * FireBase BaaS https://www.youtube.com/watch?v=q5J5ho7YUhA
+* Developers roadmap ( Fullstack - developemnt company)https://github.com/fullstack-development/developers-roadmap
   
  #### JS 
 * how it works https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
