@@ -42,6 +42,7 @@
 * Spotify home page https://www.youtube.com/watch?v=w5GQcHxJH1w
 * Vue 3 full 10 hours course https://www.youtube.com/watch?v=e-E0UB-YDRk
 * VueX and firebase dataBase https://www.youtube.com/watch?v=C1VujcH8ufE
+* VueX and firebase dataBase StackOverFlow https://stackoverflow.com/questions/61001363/read-data-from-firebase-in-vuex
 
 #### CSS
 * tailwinds youtube playlist https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
