@@ -11,6 +11,7 @@
 * C and C++ studing resources https://codecondo.com/best-resources-to-learn-c-c-programming-in-2020/
 * 2021 tech trends https://www.youtube.com/watch?v=oHtR5YSPLjo
 * С basics (ru) https://younglinux.info/c/
+* Habr async programming (ru) https://habr.com/ru/post/452974/
 
 ### Web
 * prepared portfolio page templates https://postovoy.net/30-besplatnyh-html-shablonov-portfolio-frilansera.html
