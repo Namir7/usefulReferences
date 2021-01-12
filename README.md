@@ -30,6 +30,7 @@
  #### JS 
 * how it works https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
 * advanced JS https://www.youtube.com/watch?v=hNYzV87wocY
+* how refactor Promise chain to await https://advancedweb.hu/how-to-refactor-a-promise-chain-to-async-functions/
  
  #### Node JS 
  * start https://www.youtube.com/watch?v=vri9zyxLBAk
