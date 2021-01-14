@@ -33,6 +33,7 @@
 * how it works https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
 * advanced JS https://www.youtube.com/watch?v=hNYzV87wocY
 * how refactor Promise chain to await https://advancedweb.hu/how-to-refactor-a-promise-chain-to-async-functions/
+* build-in objects in JS https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
  
  #### Node JS 
  * start https://www.youtube.com/watch?v=vri9zyxLBAk
