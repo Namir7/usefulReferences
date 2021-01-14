@@ -34,6 +34,7 @@
 * advanced JS https://www.youtube.com/watch?v=hNYzV87wocY
 * how refactor Promise chain to await https://advancedweb.hu/how-to-refactor-a-promise-chain-to-async-functions/
 * build-in objects in JS https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+* advanced JS - Vladilen Minin palylist (ru) https://www.youtube.com/watch?v=aQkgUUmUJy4&list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT
  
  #### Node JS 
  * start https://www.youtube.com/watch?v=vri9zyxLBAk
