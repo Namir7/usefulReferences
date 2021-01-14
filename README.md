@@ -54,6 +54,7 @@
 
 #### CSS
 * tailwinds youtube playlist https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
+* build a responsive website with flexboxes https://www.youtube.com/watch?v=p0bGHP-PXD4
 
 #### Tailwind
 * tailwind best practices https://www.youtube.com/watch?v=J_7_mnFSLDg
