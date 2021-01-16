@@ -10,6 +10,7 @@
 * reverse-engeeneering part 2 https://indepth.dev/posts/1006/practical-application-of-reverse-engineering-guidelines-and-principles
 * C and C++ studing resources https://codecondo.com/best-resources-to-learn-c-c-programming-in-2020/
 * C language resources https://medium.com/javarevisited/10-best-c-programming-courses-for-beginners-2c2c1f6bcb12
+* C language interactive course https://www.learn-c.org/en/Strings  
 * 2021 tech trends https://www.youtube.com/watch?v=oHtR5YSPLjo
 * С basics (ru) https://younglinux.info/c/
 * Habr async programming (ru) https://habr.com/ru/post/452974/
