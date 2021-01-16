@@ -76,3 +76,4 @@
 * How to work with information https://newtonew.com/science/kak-rabotat-s-informaciey-osmyslenno
 * How to get a start up idea https://medium.com/swlh/how-to-develop-a-great-startup-idea-5e55f9fedbf2
 * photo hosting https://ibb.co/
+* freeflance places for beginners https://miro.com/app/board/o9J_kwp3hs0=/
