@@ -69,6 +69,8 @@
 * engineering magazine https://www.theengineer.co.uk/
 * embedded programs for quaredocopters https://www.youtube.com/watch?v=CHSYgLfhwUo
 * drone the complete flight Dinamycs https://www.youtube.com/watch?v=C0KBu2ihp-s
+* drone open source project 1 https://github.com/ArduPilot/ardupilot
+* drone open source project 2 https://github.com/PX4/PX4-Autopilot
 
 ## people 
 * additional links https://github.com/irinainina/rsschool-materials
