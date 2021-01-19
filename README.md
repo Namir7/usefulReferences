@@ -32,6 +32,7 @@
 * FireBase BaaS https://www.youtube.com/watch?v=q5J5ho7YUhA
 * Developers roadmap ( Fullstack - developemnt company)https://github.com/fullstack-development/developers-roadmap
 * check responsiveness https://www.responsinator.com/
+* imclude one HTML to another HTML (ru) https://webformyself.com/sposoby-obrabotki-vklyuchenij-html-v-html/
   
  #### JS 
 * how it works https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
