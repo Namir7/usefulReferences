@@ -16,6 +16,7 @@
 * Habr async programming (ru) https://habr.com/ru/post/452974/
 * Git How to https://githowto.com
 * C++ course https://www.youtube.com/watch?v=GQp1zzTwrIg
+* VS code hotkeys https://tproger.ru/translations/useful-hotkeys-for-vs-code/
 
 ### Web
 * prepared portfolio page templates https://postovoy.net/30-besplatnyh-html-shablonov-portfolio-frilansera.html
